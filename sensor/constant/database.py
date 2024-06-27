@@ -1,0 +1,2 @@
+DATABASE_NAME = "AirSensor"
+COLLECTION_NAME = "SensorData"
